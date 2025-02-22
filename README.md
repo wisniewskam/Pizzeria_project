@@ -8,7 +8,7 @@ The system includes an application that allows the display of Menus and Products
 ## GUI:
 ![img_1.png](img_1.png)
 
-## Techologies:
+## Technologies:
 Java\
 Hibernate\
 SQLite Database\
